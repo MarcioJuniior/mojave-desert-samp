@@ -1,0 +1,563 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:37:42] filterscripts = ""  (string)
+[14:37:42] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:37:56] filterscripts = ""  (string)
+[14:37:56] 
+[14:37:56] Server Plugins
+[14:37:56] --------------
+[14:37:56]  Loaded 0 plugins.
+
+[14:37:56] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:37:56] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:37:56] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:37:56] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:37:56] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:37:56] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:37:56] 
+[14:37:56] Filterscripts
+[14:37:56] ---------------
+[14:37:56]   Loaded 0 filterscripts.
+
+[14:37:56] Script[gamemodes/mojave-desert.amx]: Run time error 19: "File or function is not found"
+[14:37:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:38:39] filterscripts = ""  (string)
+[14:38:39] 
+[14:38:39] Server Plugins
+[14:38:39] --------------
+[14:38:39]  Loading plugin: streamer
+[14:38:39] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:38:39]   Loaded.
+[14:38:39]  Loaded 1 plugins.
+
+[14:38:39] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:38:39] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:38:39] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:38:39] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:38:39] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:38:39] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:38:39] 
+[14:38:39] Filterscripts
+[14:38:39] ---------------
+[14:38:39]   Loaded 0 filterscripts.
+
+[14:38:39]  
+[14:38:39]  
+[14:38:39]  
+[14:38:39]  ======================================= 
+[14:38:39]  |                                     | 
+[14:38:39]  |        YSI version 4.00.0001        | 
+[14:38:39]  |        By Alex "Y_Less" Cole        | 
+[14:38:39]  |                                     | 
+[14:38:39]  ======================================= 
+[14:38:39]  
+[14:38:39] ----------------------------------
+[14:38:39] --    Mojave Desert Roleplay    --
+[14:38:39] ----------------------------------
+[14:38:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:39:04] filterscripts = ""  (string)
+[14:39:04] 
+[14:39:04] Server Plugins
+[14:39:04] --------------
+[14:39:04]  Loading plugin: streamer
+[14:39:04] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:39:04]   Loaded.
+[14:39:04]  Loaded 1 plugins.
+
+[14:39:04] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:39:04] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:39:04] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:39:04] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:39:04] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:39:04] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:39:04] 
+[14:39:04] Filterscripts
+[14:39:04] ---------------
+[14:39:04]   Loaded 0 filterscripts.
+
+[14:39:04]  
+[14:39:04]  
+[14:39:04]  
+[14:39:04]  ======================================= 
+[14:39:04]  |                                     | 
+[14:39:04]  |        YSI version 4.00.0001        | 
+[14:39:04]  |        By Alex "Y_Less" Cole        | 
+[14:39:04]  |                                     | 
+[14:39:04]  ======================================= 
+[14:39:04]  
+[14:39:04] ----------------------------------
+[14:39:04] --    Mojave Desert Roleplay    --
+[14:39:04] ----------------------------------
+[14:39:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:39:34] filterscripts = ""  (string)
+[14:39:34] 
+[14:39:34] Server Plugins
+[14:39:34] --------------
+[14:39:34]  Loading plugin: streamer
+[14:39:34] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:39:34]   Loaded.
+[14:39:34]  Loaded 1 plugins.
+
+[14:39:34] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:39:34] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:39:34] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:39:34] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:39:34] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:39:34] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:39:34] 
+[14:39:34] Filterscripts
+[14:39:34] ---------------
+[14:39:34]   Loaded 0 filterscripts.
+
+[14:39:34]  
+[14:39:34]  
+[14:39:34]  
+[14:39:34]  ======================================= 
+[14:39:34]  |                                     | 
+[14:39:34]  |        YSI version 4.00.0001        | 
+[14:39:34]  |        By Alex "Y_Less" Cole        | 
+[14:39:34]  |                                     | 
+[14:39:34]  ======================================= 
+[14:39:34]  
+[14:39:34] ----------------------------------
+[14:39:34] --    Mojave Desert Roleplay    --
+[14:39:34] ----------------------------------
+[14:39:34] Number of vehicle models: 0
+[14:40:16] [connection] incoming connection: 127.0.0.1:51849 id: 0
+[14:40:16] [join] Marcio_Oliveira has joined the server (0:127.0.0.1)
+[14:40:37] [part] Marcio_Oliveira has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:41:53] filterscripts = ""  (string)
+[14:41:53] 
+[14:41:53] Server Plugins
+[14:41:53] --------------
+[14:41:53]  Loading plugin: streamer
+[14:41:53] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:41:53]   Loaded.
+[14:41:53]  Loaded 1 plugins.
+
+[14:41:53] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:41:53] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:41:53] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:41:53] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:41:53] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:41:53] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:41:53] 
+[14:41:53] Filterscripts
+[14:41:53] ---------------
+[14:41:53]   Loaded 0 filterscripts.
+
+[14:41:53]  
+[14:41:53]  
+[14:41:53]  
+[14:41:53]  ======================================= 
+[14:41:53]  |                                     | 
+[14:41:53]  |        YSI version 4.00.0001        | 
+[14:41:53]  |        By Alex "Y_Less" Cole        | 
+[14:41:53]  |                                     | 
+[14:41:53]  ======================================= 
+[14:41:53]  
+[14:41:53] ----------------------------------
+[14:41:53] --    Mojave Desert Roleplay    --
+[14:41:53] ----------------------------------
+[14:41:53] Number of vehicle models: 0
+[14:43:20] [connection] incoming connection: 127.0.0.1:63345 id: 0
+[14:43:20] [join] Marcio_Oliveira has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:44:54] filterscripts = ""  (string)
+[14:44:54] 
+[14:44:54] Server Plugins
+[14:44:54] --------------
+[14:44:54]  Loading plugin: streamer
+[14:44:54] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:44:54]   Loaded.
+[14:44:54]  Loaded 1 plugins.
+
+[14:44:54] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:44:54] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:44:54] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:44:54] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:44:54] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:44:54] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:44:54] 
+[14:44:54] Filterscripts
+[14:44:54] ---------------
+[14:44:54]   Loaded 0 filterscripts.
+
+[14:44:54]  
+[14:44:54]  
+[14:44:54]  
+[14:44:54]  ======================================= 
+[14:44:54]  |                                     | 
+[14:44:54]  |        YSI version 4.00.0001        | 
+[14:44:54]  |        By Alex "Y_Less" Cole        | 
+[14:44:54]  |                                     | 
+[14:44:54]  ======================================= 
+[14:44:54]  
+[14:44:54] ----------------------------------
+[14:44:54] --    Mojave Desert Roleplay    --
+[14:44:54] ----------------------------------
+[14:44:54] Number of vehicle models: 0
+[14:45:18] [connection] incoming connection: 127.0.0.1:63897 id: 0
+[14:45:18] [join] Marcio_Oliveira has joined the server (0:127.0.0.1)
+[14:45:32] [part] Marcio_Oliveira has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:46:07] filterscripts = ""  (string)
+[14:46:07] 
+[14:46:07] Server Plugins
+[14:46:07] --------------
+[14:46:07]  Loading plugin: streamer
+[14:46:07] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:46:07]   Loaded.
+[14:46:07]  Loaded 1 plugins.
+
+[14:46:07] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:46:07] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:46:07] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:46:07] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:46:07] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:46:07] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:46:07] 
+[14:46:07] Filterscripts
+[14:46:07] ---------------
+[14:46:07]   Loaded 0 filterscripts.
+
+[14:46:07]  
+[14:46:07]  
+[14:46:07]  
+[14:46:07]  ======================================= 
+[14:46:07]  |                                     | 
+[14:46:07]  |        YSI version 4.00.0001        | 
+[14:46:07]  |        By Alex "Y_Less" Cole        | 
+[14:46:07]  |                                     | 
+[14:46:07]  ======================================= 
+[14:46:07]  
+[14:46:07] ----------------------------------
+[14:46:07] --    Mojave Desert Roleplay    --
+[14:46:07] ----------------------------------
+[14:46:07] Number of vehicle models: 0
+[14:46:32] [connection] incoming connection: 127.0.0.1:62448 id: 0
+[14:46:32] [join] Marcio_Oliveira has joined the server (0:127.0.0.1)
+[14:47:53] [part] Marcio_Oliveira has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:49:56] filterscripts = ""  (string)
+[14:49:56] 
+[14:49:56] Server Plugins
+[14:49:56] --------------
+[14:49:56]  Loading plugin: streamer
+[14:49:56] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:49:56]   Loaded.
+[14:49:56]  Loaded 1 plugins.
+
+[14:49:56] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:49:56] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:49:56] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:49:56] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:49:56] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:49:56] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:49:56] 
+[14:49:56] Filterscripts
+[14:49:56] ---------------
+[14:49:56]   Loaded 0 filterscripts.
+
+[14:49:56]  
+[14:49:56]  
+[14:49:56]  
+[14:49:56]  ======================================= 
+[14:49:56]  |                                     | 
+[14:49:56]  |        YSI version 4.00.0001        | 
+[14:49:56]  |        By Alex "Y_Less" Cole        | 
+[14:49:56]  |                                     | 
+[14:49:56]  ======================================= 
+[14:49:56]  
+[14:49:56] ----------------------------------
+[14:49:56] --    Mojave Desert Roleplay    --
+[14:49:56] ----------------------------------
+[14:49:56] Number of vehicle models: 0
+[14:50:22] [connection] incoming connection: 127.0.0.1:62450 id: 0
+[14:50:22] [join] Marcio_Oliveira has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:53:04] filterscripts = ""  (string)
+[14:53:04] 
+[14:53:04] Server Plugins
+[14:53:04] --------------
+[14:53:04]  Loading plugin: streamer
+[14:53:04] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:53:04]   Loaded.
+[14:53:04]  Loaded 1 plugins.
+
+[14:53:04] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:53:04] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:53:04] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:53:04] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:53:04] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:53:04] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:53:04] 
+[14:53:04] Filterscripts
+[14:53:04] ---------------
+[14:53:04]   Loaded 0 filterscripts.
+
+[14:53:04]  
+[14:53:04]  
+[14:53:04]  
+[14:53:04]  ======================================= 
+[14:53:04]  |                                     | 
+[14:53:04]  |        YSI version 4.00.0001        | 
+[14:53:04]  |        By Alex "Y_Less" Cole        | 
+[14:53:04]  |                                     | 
+[14:53:04]  ======================================= 
+[14:53:04]  
+[14:53:04] ----------------------------------
+[14:53:04] --    Mojave Desert Roleplay    --
+[14:53:04] ----------------------------------
+[14:53:04] Number of vehicle models: 0
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:54:01] filterscripts = ""  (string)
+[14:54:01] 
+[14:54:01] Server Plugins
+[14:54:01] --------------
+[14:54:01]  Loading plugin: streamer
+[14:54:01] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:54:01]   Loaded.
+[14:54:01]  Loaded 1 plugins.
+
+[14:54:01] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:54:01] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:54:01] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:54:01] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:54:01] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:54:01] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:54:01] 
+[14:54:01] Filterscripts
+[14:54:01] ---------------
+[14:54:01]   Loaded 0 filterscripts.
+
+[14:54:01]  
+[14:54:01]  
+[14:54:01]  
+[14:54:01]  ======================================= 
+[14:54:01]  |                                     | 
+[14:54:01]  |        YSI version 4.00.0001        | 
+[14:54:01]  |        By Alex "Y_Less" Cole        | 
+[14:54:01]  |                                     | 
+[14:54:01]  ======================================= 
+[14:54:01]  
+[14:54:01] ----------------------------------
+[14:54:01] --    Mojave Desert Roleplay    --
+[14:54:01] ----------------------------------
+[14:54:01] Number of vehicle models: 0
+[14:54:27] [connection] incoming connection: 127.0.0.1:62454 id: 0
+[14:54:27] [join] Marcio_Oliveira has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:56:02] filterscripts = ""  (string)
+[14:56:02] 
+[14:56:02] Server Plugins
+[14:56:02] --------------
+[14:56:02]  Loading plugin: streamer
+[14:56:02] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:56:02]   Loaded.
+[14:56:02]  Loaded 1 plugins.
+
+[14:56:02] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:56:02] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:56:02] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:56:02] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:56:02] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:56:02] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:56:02] 
+[14:56:02] Filterscripts
+[14:56:02] ---------------
+[14:56:02]   Loaded 0 filterscripts.
+
+[14:56:02]  
+[14:56:02]  
+[14:56:02]  
+[14:56:02]  ======================================= 
+[14:56:02]  |                                     | 
+[14:56:02]  |        YSI version 4.00.0001        | 
+[14:56:02]  |        By Alex "Y_Less" Cole        | 
+[14:56:02]  |                                     | 
+[14:56:02]  ======================================= 
+[14:56:02]  
+[14:56:02] ----------------------------------
+[14:56:02] --    Mojave Desert Roleplay    --
+[14:56:02] ----------------------------------
+[14:56:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[14:56:42] filterscripts = ""  (string)
+[14:56:42] 
+[14:56:42] Server Plugins
+[14:56:42] --------------
+[14:56:42]  Loading plugin: streamer
+[14:56:42] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:56:42]   Loaded.
+[14:56:42]  Loaded 1 plugins.
+
+[14:56:42] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[14:56:42] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[14:56:42] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[14:56:42] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[14:56:42] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[14:56:42] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[14:56:42] 
+[14:56:42] Filterscripts
+[14:56:42] ---------------
+[14:56:42]   Loaded 0 filterscripts.
+
+[14:56:42]  
+[14:56:42]  
+[14:56:42]  
+[14:56:42]  ======================================= 
+[14:56:42]  |                                     | 
+[14:56:42]  |        YSI version 4.00.0001        | 
+[14:56:42]  |        By Alex "Y_Less" Cole        | 
+[14:56:42]  |                                     | 
+[14:56:42]  ======================================= 
+[14:56:42]  
+[14:56:42] ----------------------------------
+[14:56:42] --    Mojave Desert Roleplay    --
+[14:56:42] ----------------------------------
+[14:56:42] Number of vehicle models: 0
+[14:57:07] [connection] incoming connection: 127.0.0.1:50681 id: 0
+[14:57:07] [join] Marcio_Oliveira has joined the server (0:127.0.0.1)

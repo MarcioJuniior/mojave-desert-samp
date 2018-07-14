@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"obje",
+				"objectsToReplace"
+			],
+			[
+				"MOTOR_",
+				"MOTOR_RL"
+			],
+			[
+				"indice",
+				"indiceFinal"
+			],
+			[
+				"Orde",
+				"OrdenaVetor"
+			],
+			[
+				"vetor",
+				"vetorFinal"
+			],
+			[
+				"indi",
+				"indiceFinal"
+			],
+			[
+				"jogador",
+				"jogadorAtual"
+			],
+			[
+				"Veri",
+				"VerificarVencedor"
+			],
+			[
+				"joga",
+				"jogadorAtual"
+			],
+			[
+				"Efetuar",
+				"EfetuarJogada"
+			],
+			[
+				"jogado",
+				"jogadorAtual"
+			],
+			[
+				"jogar",
+				"jogarNovamente"
+			],
+			[
+				"loa",
+				"loadedModels"
+			],
+			[
+				"v",
+				"vehiclecolors"
+			],
+			[
+				"modpack-",
+				"modpack-lowpoly"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"fun",
+				"fun\tfunction"
+			],
+			[
+				"loade",
+				"loadedDFF"
+			],
+			[
+				"engine",
+				"engineLoadTXD"
+			],
+			[
+				"addE",
+				"addEventHandler"
+			],
+			[
+				"JobN",
+				"JobNewspaper_Stop"
+			],
+			[
+				"Job_N",
+				"JobNewspaper_Start"
+			],
+			[
+				"SeedType_",
+				"SeedType_ModifyProperty"
+			],
+			[
+				"SendC",
+				"SendClientMessage"
+			],
+			[
+				"Send",
+				"SendClientMessage"
+			],
+			[
+				"SendCl",
+				"SendClientMessageToAll"
+			],
+			[
+				"DIALOG_",
+				"DIALOG_STYLE_TABLIST_HEADERS"
+			],
+			[
+				"ShowPl",
+				"ShowPlayerDialog"
+			],
+			[
+				"gSeedsType",
+				"gSeedsTypeCount"
+			],
+			[
+				"Iter_A",
+				"Iter_Alloc"
+			],
+			[
+				"Iter_",
+				"Iter_Free"
+			],
+			[
+				"Ga",
+				"GangZoneCreate"
+			],
+			[
+				"cache_get_value_nam",
+				"cache_get_value_name_int"
+			],
+			[
+				"Garage_Des",
+				"Garage_DestroyCar"
+			],
+			[
+				"MAX_GARAGE",
+				"MAX_GARAGE_VEHICLES"
+			],
+			[
+				"SendClientMessa",
+				"SendClientMessageEx"
+			],
+			[
+				"DIALOG_ST",
+				"DIALOG_STYLE_TABLIST_HEADERS"
+			],
+			[
+				"CreateDynamicPick",
+				"CreateDynamicPickupEx"
+			],
+			[
+				"OnVehicle",
+				"OnVehicleDeath"
+			],
+			[
+				"MAX_DYNAMIC_",
+				"MAX_DYNAMIC_CARS"
+			],
+			[
+				"Onplayer",
+				"OnPlayerConnect"
+			],
+			[
+				"SetTi",
+				"SetTimer"
+			],
+			[
+				"vehicle",
+				"vehiclecallsign"
+			],
+			[
+				"COLOR_LIGH",
+				"COLOR_LIGHTRED"
+			],
+			[
+				"BOD",
+				"BODY_PART_RIGHT_LEG"
+			],
+			[
+				"SendClien",
+				"SendClientMessage"
+			],
+			[
+				"Create",
+				"CreateDynamicObject"
+			],
+			[
+				"SetOb",
+				"SetObjectMaterialText"
+			],
+			[
+				"SetDynamic",
+				"SetDynamicObjectMaterialText"
+			],
+			[
+				"pFaction",
+				"pFactionRank"
+			],
+			[
+				"OnPlayer",
+				"OnPlayerConnect"
+			],
+			[
+				"SetDYnamic",
+				"SetDynamicObjectMaterialText"
+			],
+			[
+				"SetTimer",
+				"SetTimerEx"
+			],
+			[
+				"ToggleP",
+				"TogglePlayerControllable"
+			],
+			[
+				"PickingC",
+				"PickingCar"
+			],
+			[
+				"PickingCar",
+				"PickingCarTime"
+			],
+			[
+				"PLAYER_STATE",
+				"PLAYER_STATE_DRIVER"
+			],
+			[
+				"BODY",
+				"BODY_PART_HEAD"
+			],
+			[
+				"GetPlayerWeapo",
+				"GetPlayerWeaponState"
+			],
+			[
+				"CreateDyan",
+				"CreateDynamicPickup"
+			],
+			[
+				"FACTION_",
+				"FACTION_POLICE"
+			],
+			[
+				"Inventory_",
+				"Inventory_Set"
+			],
+			[
+				"SendFactionM",
+				"SendFactionMessageEx"
+			],
+			[
+				"Rolepla",
+				"RoleplayQuiz"
+			],
+			[
+				"question",
+				"rpQuestions"
+			],
+			[
+				"Rolepl",
+				"RoleplayQuiz"
+			],
+			[
+				"Dialog_Show",
+				"Dialog_Show"
+			],
+			[
+				"DIALOG_S",
+				"DIALOG_STYLE_LIST"
+			],
+			[
+				"Dialog_S",
+				"Dialog_Show"
+			],
+			[
+				"SendClient",
+				"SendClientMessageToAll"
+			],
+			[
+				"DamageStatus",
+				"UpdateVehicleDamageStatus"
+			],
+			[
+				"ReturnVehicle",
+				"ReturnVehicleModelName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/Pawn.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Pawn.sublime-build",
+					"Preprocessed output"
+				],
+				[
+					"Packages/User/Pawn.sublime-build",
+					"P-code output"
+				]
+			],
+			[
+				"Packages/User/Pawn.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.load_resource(\"Packages/User/Pawn.sublime-build\")",
+			"window.extract_variables()[\"packages\"]",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Mojave Server"
+	],
+	"file_history":
+	[
+		"/C/Users/User/AppData/Local/Temp/meta-1.xml",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/mapa-pingueiro/meta.xml",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv003435/server.lua",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/mtaserver.conf",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/[gamemodes]/[deathmatch]/deathmatch/logic.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/vehicle-mods-system/s_vehicle_mods.lua",
+		"/C/Users/User/Documents/Texas Desert/mods/deathmatch/resource-cache/http-client-files/vehicle-mods-system/c_vehicle_mods.lua",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/fortcarson-map/s_load_map.lua",
+		"/C/Users/User/AppData/Local/Temp/meta.xml",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/fortcarson-map/aa/countn2.ide",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/fortcarson-map/aa/counxref.ide",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/fortcarson-map/aa/countn2.ipl",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/fortcarson-map/c_load_map.lua",
+		"/C/Users/User/.vim/plugged.lock",
+		"/C/Users/User/Documents/Mojave Desert - SC/gamemodes/roleplay.pwn",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/fortcarson-map/meta.xml",
+		"/C/Users/User/Documents/col editor/CollEditor2.md5",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/[gamemodes]/[amx]/amx/server/events.lua",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/resource-keeper/s_resCheck.lua",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/[gamemodes]/[play]/play/broph.lua",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/[gamemodes]/[deathmatch]/[maps]/dm-arena1/meta.xml",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv0035cd/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv0072cc/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv00131b/Bv0072ff/c_flood.lua",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv00131b/Bv00131b/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv000a03/acl.xml",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv007de2/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv007d4c/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv007525/mtaserver.conf",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv0072a5/mtaserver.conf",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv0015d5/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv000598/s_resCheck.lua",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv006c8a/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv006b3a/connection.lua",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv006a4b/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv00131b/Bv0072f5/s_flood.lua",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/[gamemodes]/[deathmatch]/[maps]/dm-arena1/dm-arena1.map",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/mtaserver.conf",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/mapa-pingueiro/teste.map",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/teste/mapEditorScriptingExtension_c.lua",
+		"/F/MTA 1.5 Server/server/mods/deathmatch/resources/teste/mapEditorScriptingExtension_s.lua",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/fortcarson-map/c_load_map.lua",
+		"/C/Program Files (x86)/MTA San Andreas 1.5/mods/deathmatch/resources/fortcarson-map/c_load_map.lua",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.444/Texas Desert/mods/deathmatch/resources/modloader-matriz/loader_s.lua",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv0032c4/server.log",
+		"/C/Users/User/Desktop/teste/countn2.ipl",
+		"/C/Users/User/Desktop/teste/counxref.ide",
+		"/C/Users/User/Desktop/teste/countn2.ide",
+		"/C/Users/User/Desktop/aaa.pwn",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv002507/Bv006a86/owl.sql",
+		"/C/Users/User/Downloads/owl.sql",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv002507/Bv0058c4/connection.lua",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv002507/Bv005563/server.log",
+		"/C/Users/User/Documents/Resources/mods/deathmatch/mtaserver.conf",
+		"/C/Users/User/Documents/MTA Roleplay/Resources/mods/deathmatch/resources/mysql/connection.lua",
+		"/C/Users/User/Documents/MTA Roleplay/Resources/mods/deathmatch/resources/item-system/g_items.lua",
+		"/C/Users/User/Documents/My Games/Wars of Liberty/Users3/NewProfile3.xml",
+		"/C/Users/User/Documents/My Games/Age of Dynasties/Users3/NewProfile3.xml",
+		"/C/Users/User/Documents/Nação Brasil/gamemodes/roleplay.pwn",
+		"/C/Users/User/Downloads/Quartel_do_Exercito_2015_fase_29(1).pwn",
+		"/C/Users/User/Desktop/Flint County Roleplay/roleplay.pwn",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/item-system/s_item_admin.lua",
+		"/C/Users/User/Downloads/Mexico_mojave(1).pwn",
+		"/C/Users/User/Documents/MTA Roleplay/Resources/mods/deathmatch/resource-cache/http-client-files/vehicle-mods-system/modpack-lowpoly.xml",
+		"/C/Users/User/Documents/MTA Roleplay/Resources/mods/deathmatch/resource-cache/http-client-files/vehicle-mods-system/modpack-fancy.xml",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/item-system/s_combine_weapons.lua",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv002507/Bv00602d/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv002507/Bv0062f8/server.log",
+		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv002507/Bv006671/owl.sql",
+		"/C/Users/User/Desktop/Flint County Roleplay/jobs/JobNewspaperDeliver.p",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.915/database.sql",
+		"/C/Users/User/Desktop/Carrinho.ino.c",
+		"/C/Users/User/Desktop/respostas unicamp.txt",
+		"/C/Users/User/Desktop/MergeVetor.pas",
+		"/C/Program Files (x86)/Steam/steamapps/common/FSX/PMDG/SIDSTARS/SBKP.txt",
+		"/C/Users/User/Desktop/jogoVelha.pas",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/item-system/s_item_management.lua",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/item-system/s_world_items.lua",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/admin-system/monitor/s_monitor.lua",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/admin-system/monitor/c_monitor.lua",
+		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/custom-weapons/config/weapons.xml",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/vehicle-mods-system/meta.xml",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/vehicle-mods-system/modpack-fancy.xml",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/vehicle-mods-system/modpack-lowpoly.xml",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/BACKUP CARROS E SKIN/vehicle-mods-system/modpack-fancy.xml",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/BACKUP CARROS E SKIN/vehicle-mods-system/modpack-lowpoly.xml",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/BACKUP CARROS E SKIN/vehicle-mods-system/s_vehicle_mods.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/BACKUP CARROS E SKIN/vehicle-mods-system/c_vehicle_mods.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/BACKUP CARROS E SKIN/vehicle-mods-system/meta.xml",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/mysql/connection.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/logs/server.log",
+		"/C/Users/User/Desktop/mounted-weapon/meta.xml",
+		"/C/Users/User/Desktop/server-password/meta.xml",
+		"/C/Users/User/Desktop/server-password/s_password.lua",
+		"/C/Users/User/Desktop/mounted-weapon/mounted.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/carshop-system/s_crusher.lua",
+		"/C/Users/User/Documents/OWL-Original/mods/deathmatch/resources/announcement/notification_c.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/mdc-system/mdc_c.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/business/business.lua",
+		"/C/Users/User/Desktop/mounted.lua",
+		"/C/Users/User/Documents/OWL-Original/mods/deathmatch/resources/announcement/notification_s.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/vehicle-system/s_vehicle_system.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/factions/meta.xml",
+		"/C/Users/User/Documents/OWL-Original/mods/deathmatch/resources/factions/meta.xml",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/integration/functions_s.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/integration/meta.xml",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/item-system/g_items.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/item-system/s_item_system.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/item-system/c_item_system.lua",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/meta.xml",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/exports_s.lua",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/cw_s.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/job-system/fishing/s_fishing_job.lua",
+		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/job-system/fishing/c_fishing_job.lua",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.628/handling.cfg",
+		"/C/Program Files (x86)/Rockstar Games/GTASA-Testes/modloader/Favela City of God/data/maps/rio_fav/rio_fav.IDE",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/cw_c.lua",
+		"/C/Program Files (x86)/Steam/steamapps/common/FSX/SimObjects/Airplanes/PMDG_MD11F/Aircraft.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/FSX/SimObjects/Airplanes/PMDG_MD11/aircraft.cfg",
+		"/F/SteamLibrary/steamapps/common/FSX/SimObjects/Airplanes/PMDG_MD11F/Aircraft.cfg",
+		"/F/SteamLibrary/steamapps/common/FSX/SimObjects/Airplanes/PMDG_MD11/aircraft.cfg",
+		"/C/Program Files (x86)/Rockstar Games/GTASA-Testes/modloader/Favela City of God/data/maps/rio_fav/rio_fav.img",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/utils_c.lua",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/utils.lua",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/exports_c.lua",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/LICENSE.MD",
+		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.562/custom-weapons-master/exports_s.lua"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 159.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Pawn.sublime-build",
+	"project": "mojave-desert.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
