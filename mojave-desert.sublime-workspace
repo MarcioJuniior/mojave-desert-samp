@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"OnPlayerEnter",
+				"OnPlayerEnterDynamicArea"
+			],
+			[
+				"PLAYER_MA",
+				"PLAYER_MARKERS_MODE_OFF"
+			],
+			[
+				"EnableStunt",
+				"EnableStuntBonusForAll"
+			],
+			[
+				"SendCl",
+				"SendClientMessage"
+			],
+			[
+				"SetTi",
+				"SetTimerEx"
+			],
+			[
+				"OnPlayerRe",
+				"OnPlayerRequestSpawn"
+			],
+			[
+				"IsPlayerInDY",
+				"IsPlayerInDynamicArea"
+			],
+			[
+				"SendClient",
+				"SendClientMessage"
+			],
+			[
+				"OnPlayerEnterDyn",
+				"OnPlayerEnterDynamicArea"
+			],
+			[
+				"includ",
+				"include\t#include <…>"
+			],
+			[
 				"obje",
 				"objectsToReplace"
 			],
@@ -104,10 +144,6 @@
 				"SendClientMessage"
 			],
 			[
-				"SendCl",
-				"SendClientMessageToAll"
-			],
-			[
 				"DIALOG_",
 				"DIALOG_STYLE_TABLIST_HEADERS"
 			],
@@ -166,10 +202,6 @@
 			[
 				"Onplayer",
 				"OnPlayerConnect"
-			],
-			[
-				"SetTi",
-				"SetTimer"
 			],
 			[
 				"vehicle",
@@ -280,10 +312,6 @@
 				"Dialog_Show"
 			],
 			[
-				"SendClient",
-				"SendClientMessageToAll"
-			],
-			[
 				"DamageStatus",
 				"UpdateVehicleDamageStatus"
 			],
@@ -295,6 +323,51 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "gamemodes/mojave-desert.pwn",
+			"settings":
+			{
+				"buffer_size": 890,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/mojave-desert/factions.p",
+			"settings":
+			{
+				"buffer_size": 246,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/mojave-desert/factions/repository.p",
+			"settings":
+			{
+				"buffer_size": 609,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/mojave-desert/factions/commands.p",
+			"settings":
+			{
+				"buffer_size": 263,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamemodes/mojave-desert/border-control.p",
+			"settings":
+			{
+				"buffer_size": 1470,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -324,7 +397,7 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "Package Control: ",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -355,10 +428,23 @@
 	},
 	"expanded_folders":
 	[
-		"/F/Mojave Server"
+		"/F/Mojave Server",
+		"/F/Mojave Server/gamemodes",
+		"/F/Mojave Server/gamemodes/mojave-desert"
 	],
 	"file_history":
 	[
+		"/F/Mojave Server/gamemodes/mojave-desert/factions/faction-types.p",
+		"/F/Mojave Server/gamemodes/mojave-desert/border-control.p",
+		"/F/Mojave Server/pawno/include/YSI-4.0.2/YSI_Coding/y_hooks/tests.inc",
+		"/C/PawnCC/include/easyDialog/easyDialog.inc",
+		"/F/Mojave Server/gamemodes/mojave-desert/factions/repository.pwn",
+		"/F/Mojave Server/gamemodes/ -w 203.xml",
+		"/C/PawnCC/include/streamer-2.9.3/streamer.inc",
+		"/F/Mojave Server/gamemodes/mojave-desert/border-control/border-control.p",
+		"/F/Mojave Server/server.cfg",
+		"/F/Mojave Server/.gitignore",
+		"/F/Mojave Server/gamemodes/bare.amx",
 		"/C/Users/User/AppData/Local/Temp/meta-1.xml",
 		"/C/Users/User/Documents/Eaglestone/mods/deathmatch/resources/mapa-pingueiro/meta.xml",
 		"/C/Users/User/AppData/Local/Temp/BvSshSftp/Bv0032b1/Bv003435/server.lua",
@@ -475,22 +561,11 @@
 		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/job-system/fishing/s_fishing_job.lua",
 		"/C/Users/User/Documents/MTA-Roleplay/Resources/mods/deathmatch/resources/job-system/fishing/c_fishing_job.lua",
 		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.628/handling.cfg",
-		"/C/Program Files (x86)/Rockstar Games/GTASA-Testes/modloader/Favela City of God/data/maps/rio_fav/rio_fav.IDE",
-		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/cw_c.lua",
-		"/C/Program Files (x86)/Steam/steamapps/common/FSX/SimObjects/Airplanes/PMDG_MD11F/Aircraft.cfg",
-		"/C/Program Files (x86)/Steam/steamapps/common/FSX/SimObjects/Airplanes/PMDG_MD11/aircraft.cfg",
-		"/F/SteamLibrary/steamapps/common/FSX/SimObjects/Airplanes/PMDG_MD11F/Aircraft.cfg",
-		"/F/SteamLibrary/steamapps/common/FSX/SimObjects/Airplanes/PMDG_MD11/aircraft.cfg",
-		"/C/Program Files (x86)/Rockstar Games/GTASA-Testes/modloader/Favela City of God/data/maps/rio_fav/rio_fav.img",
-		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/utils_c.lua",
-		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/utils.lua",
-		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/exports_c.lua",
-		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.182/custom-weapons-master/LICENSE.MD",
-		"/C/Users/User/AppData/Local/Temp/Rar$DRa0.562/custom-weapons-master/exports_s.lua"
+		"/C/Program Files (x86)/Rockstar Games/GTASA-Testes/modloader/Favela City of God/data/maps/rio_fav/rio_fav.IDE"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -504,6 +579,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"  ",
+			"STREAMER_TAG_AREA",
+			"World"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -511,6 +589,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"    "
 		],
 		"reverse": false,
 		"show_context": true,
@@ -521,18 +600,162 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "gamemodes/mojave-desert.pwn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gamemodes/mojave-desert/factions.p",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gamemodes/mojave-desert/factions/repository.p",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								580,
+								580
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gamemodes/mojave-desert/factions/commands.p",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "gamemodes/mojave-desert/border-control.p",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Pawn syntax/Pawn.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 35.0
+		"height": 46.0
 	},
 	"layout":
 	{
@@ -569,7 +792,7 @@
 	"project": "mojave-desert.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
